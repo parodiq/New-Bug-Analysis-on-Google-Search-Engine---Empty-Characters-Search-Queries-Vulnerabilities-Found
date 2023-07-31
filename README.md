@@ -23,13 +23,13 @@ Sharing examples of potential exploits, as demonstrated in the criticized articl
 
 # Sample:
 Google databases and, Add these infected links:
-<code>
+
 <pre>
   1 - https://www.google.com/search?q=%E2%80%8B&client=ubuntu-chr&sourceid=chrome&ie=UTF-8
 2- https://www.google.com/search?client=ubuntu-chr&hs=snq&sxsrf=AB5stBg2nCtsakuxyw21w5zBGiasVblZwA:1690805987571&q=%E2%80%8B&tbm=isch&source=lnms&sa=X&ved=2ahUKEwirwpeS97 iAAxUjVKQEHROFCkEQ0pQJegQIChAB&biw=1600&bih=690&dpr=1
 3 - https://www.google.com/search?q=%E2%80%8B%E2%80%8B%E2%80%8B&client=ubuntu-chr&hs=yLW&sxsrf=AB5stBjBqCgx1gAJctFvwNpEGflLcklsbQ:1690806818325&filter=0&biw=16 00&bih=690&dpr =1
 
 </pre>
-</code>
+
 # Conclusion
 Responsible bug analysis is a crucial aspect of ensuring the security and stability of digital platforms. As professionals in this field, we must adhere to ethical practices and prioritize responsible disclosure to protect users and maintain the integrity of the systems we examine. Let us work together to create a safer digital environment through collaboration and responsible bug analysis.
