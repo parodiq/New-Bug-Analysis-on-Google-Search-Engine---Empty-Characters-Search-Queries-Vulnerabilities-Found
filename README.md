@@ -30,6 +30,6 @@ Google databases and, Add these infected links:
 3 - https://www.google.com/search?q=%E2%80%8B%E2%80%8B%E2%80%8B&client=ubuntu-chr&hs=yLW&sxsrf=AB5stBjBqCgx1gAJctFvwNpEGflLcklsbQ:1690806818325&filter=0&biw=16 00&bih=690&dpr =1
 
 </pre>
-<code>
+</code>
 # Conclusion
 Responsible bug analysis is a crucial aspect of ensuring the security and stability of digital platforms. As professionals in this field, we must adhere to ethical practices and prioritize responsible disclosure to protect users and maintain the integrity of the systems we examine. Let us work together to create a safer digital environment through collaboration and responsible bug analysis.
