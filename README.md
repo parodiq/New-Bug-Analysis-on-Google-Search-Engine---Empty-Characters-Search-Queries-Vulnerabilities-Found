@@ -21,8 +21,7 @@ Effective bug analysis and ethical disclosure rely on collaboration between anal
 # The Consequences of Unethical Practices
 Sharing examples of potential exploits, as demonstrated in the criticized article, can lead to serious ethical and legal repercussions. Engaging in such practices violates the principles of responsible disclosure and could harm the platform and its users.
 
-# Sample:
-Google databases and, Add these infected links:
+# Sample of infected links:
 
 <pre>
   https://www.google.com/search?q=%E2%80%8B&client=ubuntu-chr&sourceid=chrome&ie=UTF-8
